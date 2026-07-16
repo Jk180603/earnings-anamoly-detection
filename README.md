@@ -3,7 +3,13 @@
 A BERT-style transformer trained **from scratch** in PyTorch to detect deceptive language patterns in earnings call transcripts. Built on academic research by Larcker & Zakolyukina (2012, Journal of Accounting Research).
 
 **0.91 AUC · 90% Accuracy · 89% F1 on held-out test set.**
+## Dashboard
 
+**Wirecard (Fraud) — High Risk Detected**
+![Wirecard Analysis](screenshot_wirecard.png)
+
+**Apple (Clean) — Low Risk Baseline**
+![Apple Analysis](screenshot_apple.png)
 ---
 
 ## What it does
