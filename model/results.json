@@ -1,0 +1,6 @@
+{
+  "test_auc": 0.9064682660188278,
+  "best_val_loss": 0.30931349843740463,
+  "model_parameters": 418630,
+  "epochs_trained": 23
+}

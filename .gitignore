@@ -1,0 +1,14 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+data/raw/
+data/processed/
+model/checkpoints/
+mlruns/
+*.log
+.DS_Store
+*.pt
+*.npy
+ragas_results.json
